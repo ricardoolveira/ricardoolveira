@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ricardoolveira
+- 👀 I’m interested in Genetics, Biochemestry and Bacteriology
+- 🌱 I’m currently learning Genetics in Breast Cancer and Python Language
+- 💞️ I’m looking to collaborate on Breast Cancer
+- 📫 How to reach me i don't know yeat
+- 😄 Pronouns: He/Him/They/Their
+- ⚡ Fun fact: I really like to learn new things
