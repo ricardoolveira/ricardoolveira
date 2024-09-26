@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ricardoolveira
 - 👀 I’m interested in Genetics, Biochemestry and Bacteriology
-- 🌱 I’m currently learning Genetics in Breast Cancer and Python Language
+- 🌱 I’m currently learning mitochondrial genetics in Breast Cancer with bioinformactis implementation with Python and R Language
 - 💞️ I’m looking to collaborate on Breast Cancer
-- 📫 How to reach me i don't know yeat
+- 📫 You can contact me by my e-mail: oliveira.ca.ricardo@gmail.com
 - 😄 Pronouns: He/Him/They/Their
 - ⚡ Fun fact: I really like to learn new things
